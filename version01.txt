@@ -1,1 +1,3 @@
 This is the new feature branch
+This is the bug fix in the dev branch
+After bug fixing, this is the new feature with minor alterations
